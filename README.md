@@ -7,7 +7,7 @@ Exercice de la séance du 27/04 et du 28/04 via PYTHON via Anaconda - JupyterLab
 - KPI = Key Performance Indicator (indicateurs clefs de performance), "vulgarisation" de d'informations clés tirés de corrélations de données + complexes.
 - Sample = (échantillon)
 
-> Liens utiles :
+>> Liens utiles :
 - Pandas intro
 https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html
 https://pandas.pydata.org/pandas-docs/stable/getting_started/dsintro.html#dsintro
