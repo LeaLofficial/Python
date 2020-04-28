@@ -1,5 +1,5 @@
 Léa LOFFICIAL
-Exercice de la séance du 27/04 et du 28/04 via PYTHON via Anaconda - JupyterLab
+Exercices de la séance du 27/04 et du 28/04 via PYTHON via Anaconda - JupyterLab
 > PARTIE Python : Exercices dans "/Partie Python - Objet"
 
 > PARTIE DATAVIZ : Exercices dans "/Partie DataViz"
